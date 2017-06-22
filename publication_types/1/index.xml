@@ -1,30 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Academic</title>
-    <link>https://chensong.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Academic</description>
+    <title>1 on Chen Song</title>
+    <link>https://sctracy.github.io/chensong.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Chen Song</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Chen Song</copyright>
     <lastBuildDate>Wed, 21 Jun 2017 17:27:30 -0400</lastBuildDate>
-    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    <atom:link href="/chensong.github.io/publication_types/1/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>[**Mobicom 17**] Cardiac Scan: A Non-Contact and Continuous Heart-Based User Authentication System</title>
-      <link>https://chensong.github.io/publication/mobicom17/</link>
+      <title>Cardiac Scan: A Non-Contact and Continuous Heart-Based User Authentication System</title>
+      <link>https://sctracy.github.io/chensong.github.io/publication/mobicom17/</link>
       <pubDate>Wed, 21 Jun 2017 17:27:30 -0400</pubDate>
       
-      <guid>https://chensong.github.io/publication/mobicom17/</guid>
+      <guid>https://sctracy.github.io/chensong.github.io/publication/mobicom17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[**Bold**] Mobile visual clothing search</title>
-      <link>https://chensong.github.io/publication/clothing-search/</link>
+      <title>A configurable quantized compressed sensing architecture for low-power tele-monitoring</title>
+      <link>https://sctracy.github.io/chensong.github.io/publication/igcc14/</link>
+      <pubDate>Sat, 22 Nov 2014 00:35:45 -0400</pubDate>
+      
+      <guid>https://sctracy.github.io/chensong.github.io/publication/igcc14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>https://sctracy.github.io/chensong.github.io/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://chensong.github.io/publication/clothing-search/</guid>
+      <guid>https://sctracy.github.io/chensong.github.io/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
