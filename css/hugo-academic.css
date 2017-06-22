@@ -521,6 +521,7 @@ article {
 .pub .pub-authors {
   font-style: italic;
   line-height: 30px; /* Match share bar line height. */
+  font-size: 0.5rem;
 }
 
 .pub .pub-row-heading {
@@ -539,7 +540,7 @@ article {
   line-height: normal;
   font-style: normal;
   font-size: 1rem;
-  color: #FF0000;
+  color: #3170A5;
 }
 
 .pub-list-item .pub-publication {
