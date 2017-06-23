@@ -1063,7 +1063,7 @@ table > tbody > tr:hover > th {
 
 div.alert {
   border-radius: 10px;
-  margin-bottom: 0.1rem;
+  margin-bottom: 1rem;
 }
 
 div.alert p {
