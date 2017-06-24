@@ -516,13 +516,11 @@ article {
 
 .pub .pub-title {
   margin-bottom: 5px;
-  font-size: : 80%;
 }
 
 .pub .pub-authors {
   font-style: italic;
   line-height: 30px; /* Match share bar line height. */
-  font-size: 80%;
 }
 
 .pub .pub-row-heading {
