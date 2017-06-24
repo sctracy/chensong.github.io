@@ -571,7 +571,7 @@ article {
  **************************************************/
 
 #projects.home-section li {
-  margin-bottom: 1rem;
+  margin-bottom: 0.4rem;
 }
 
 #projects.home-section li:last-of-type {
